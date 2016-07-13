@@ -1,0 +1,10 @@
+#myNavbar ul{
+background-color : #EBD1AB;
+}
+
+#main-content{
+  background-color: #2CD1EB;
+  width: 90%;
+  /*height: 1000px;*/
+  margin-left: auto;
+}
